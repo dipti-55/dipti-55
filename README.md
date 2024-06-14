@@ -1,19 +1,6 @@
 ## Hi there 👋
 
-<!--
-**dipti-55/dipti-55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 You can find me here :
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/dipti-singh-29a54524a/])
@@ -30,25 +17,25 @@ Hi, I am Dipti
 - 🎨 I have a keen interest in painting, art, and craft.
 
 
-## Tech Stack
+## Tools & Technologies
 
-### Programming Languages
+#### Programming Languages
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-### Web Development
+#### Web Development
 
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 
-### Databases
+#### Databases
 
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
-### Machine Learning & Data Science
+#### Machine Learning & Data Science
 
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)](https://keras.io/)
@@ -58,10 +45,27 @@ Hi, I am Dipti
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
 
-### Version Control
+#### Version Control
 
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
+
+
+## GitHub Statistics
+
+![Profile views](https://komarev.com/ghpvc/?username=dipti-55&color=blue&style=flat-square)
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dipti-55&layout=compact&hide=Jupyter%20Notebook)](https://github.com/dipti-55/github-readme-stats)
+
+
+
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=dipti-55&show_icons=true&theme=radical)](https://github.com/dipti-55/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dipti-55&theme=radical)](https://git.io/streak-stats)
+
+
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=dipti-55)
 
 
 
