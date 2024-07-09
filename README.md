@@ -10,7 +10,7 @@ You can find me here :
 
 Hi, I am Dipti 
 
-- 🎓 I am currently a 3rd-year undergraduate student pursuing Bachelor's in Computer Science from India.
+- 🎓 I am currently a 3rd-year undergraduate student pursuing Bachelor's in Computer Science with specialization in AI-ML from India.
 - 🌱 Passionate about technology and constantly learning new things.
 - 🤖 My areas of interest include AI, Data Science, Machine Learning, Deep Learning, Computer Vision, MLOps.
 - 🤝 I love collaborating over code with new people and enjoy working in teams, be it in projects or hackathons.
