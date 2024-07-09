@@ -65,7 +65,4 @@ Hi, I am Dipti
 [![GitHub Streak](https://streak-stats.demolab.com/?user=dipti-55&theme=radical)](https://git.io/streak-stats)
 
 
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=dipti-55)
-
-
 
