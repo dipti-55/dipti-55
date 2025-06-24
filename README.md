@@ -10,7 +10,7 @@ You can find me here :
 
 Hi, I am Dipti 
 
-- 🎓 I am currently a 3rd-year undergraduate student pursuing Bachelor's in Computer Science with specialization in AI-ML from India.
+- 🎓 I am currently a final year undergraduate student pursuing Bachelor's in Computer Science with specialization in AI-ML from India.
 - 🌱 Passionate about technology and constantly learning new things.
 - 🤖 My areas of interest include AI, Data Science, Machine Learning, Deep Learning, Computer Vision, MLOps.
 - 🤝 I love collaborating over code with new people and enjoy working in teams, be it in projects or hackathons.
@@ -23,7 +23,6 @@ Hi, I am Dipti
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 #### Web Development
 
@@ -39,7 +38,6 @@ Hi, I am Dipti
 
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)](https://keras.io/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
